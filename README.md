@@ -1,9 +1,14 @@
 # Cześć, jestem Przemek 👋
 
-![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janKowalski&show_icons=true&theme=radical)
+![Statystyki](https://github-readme-stats.vercel.app/api?username=przemekszw&show_icons=true&theme=radical)
 
 ## O mnie
-Jestem programistą z Polski, specjalizującym się w aplikacjach webowych. Uwielbiam uczyć się nowych technologii i dzielić się swoją wiedzą.
+Jestem studentem kończącym licencjat na Uniwersytecie Ekonomicznym w Krakowie. Programuję w pythonie oraz mam trochę wiedzy z JavaScript i Node.js dzięki projektowi  strony do zarządzania. W wolnych chwilach uczę się linuxa oraz poszerzam swoją wiedzę o sieciach. Aktualnie poszukuję możliwości rozwoju zawodowego w branży IT, gdzie mógłbym wykorzystać swoje umiejętności oraz zdobyć nowe doświadczenia.
+
+Jestem studentem ostatniego roku licencjatu na Uniwersytecie Ekonomicznym w Krakowie, z pasją do programowania i ciągłego doskonalenia swoich umiejętności technicznych. Programuję w pythonie w którym napisałem swoją aplikację na licencjat obsługującą wyświetlanie danych pobieranych z Arduino. Oprócz tego zdobyłem solidne podstawy w JavaScript i Node.js, które miałem okazję wykorzystać przy tworzeniu strony do zarządzania danymi.
+
+W wolnych chwilach uczę się Linux'a oraz rozszerzam swoją wiedzę z zakresu sieci komputerowych. Aktualnie poszukuję możliwości rozwoju zawodowego w branży IT, gdzie mógłbym wykorzystać swoje umiejętności oraz zdobyć nowe doświadczenia.
+
 
 ## Technologie
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -11,8 +16,9 @@ Jestem programistą z Polski, specjalizującym się w aplikacjach webowych. Uwie
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+
 ## Projekty
-- [Projekt1](https://github.com/username/projekt1) - Opis projektu 1
+- [Projekt1](https://github.com/username/projekt1) - Strona dzięki której możemy dodawać 
 - [Projekt2](https://github.com/username/projekt2) - Opis projektu 2
 
 ## Kontakt
